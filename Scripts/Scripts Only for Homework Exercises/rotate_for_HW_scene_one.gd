@@ -14,4 +14,7 @@ func _rotate_me():
 func _process(delta):
 	pass
 
+func _on_good_button_pressed():
+	_rotate_me()
+	pass # Replace with function body.
 
