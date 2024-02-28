@@ -18,3 +18,8 @@ func _on_good_button_pressed():
 	_rotate_me()
 	pass # Replace with function body.
 
+
+
+func _on_button_pressed():
+	_rotate_me()
+	pass # Replace with function body.
