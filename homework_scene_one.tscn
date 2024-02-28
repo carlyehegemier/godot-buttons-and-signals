@@ -31,6 +31,7 @@ NOTE: the scripts we use for each homework scene are in the special \"Scripts On
 PS (You can use the visibility eye to reveal a hint in the Scene Hierarchy!)"
 
 [node name="Hint" type="RichTextLabel" parent="."]
+visible = false
 offset_left = 501.0
 offset_top = 302.0
 offset_right = 914.0
